@@ -25,7 +25,7 @@ def ifstat():
         print("You are Male")
     else:
         print("You Arw Female")
-print("Hello angel, dharshini")
+print("Hello pytghon")
 def calc():
     print("basic calculator")
     x = float(input("Enter the number"))
